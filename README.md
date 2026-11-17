@@ -31,63 +31,26 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 ---
 
-### 🛠️ Languages & Development
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,mysql,git,github,vscode" />
 </p>
 
-### 🤖 AI, Machine Learning & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,jupyter" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-### 📊 Data & AI Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,anaconda" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
 </p>
 
-### ☁️ Development Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,github,git,vscode,googlecolab" />
-</p>
-
-## 🧰 Tech Stack
-
-### Languages & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### Data Science & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Word2Vec-4B8BBE?style=for-the-badge" alt="Word2Vec" />
-</p>
-
-### Deep Learning & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch and OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe" />
-</p>
-
-### Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-</p>
 
 **Concepts I have worked with:** EDA, data preprocessing, feature engineering, classification, regression, model evaluation, NLP, ANN, basic CNN, and real-time computer-vision experiments.
 
