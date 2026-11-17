@@ -34,8 +34,9 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,mysql,git,github,vscode" />
+ <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,git,github,vscode" />
 </p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,jupyter" />
